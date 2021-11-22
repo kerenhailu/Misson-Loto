@@ -34,3 +34,4 @@ Btn.onclick = () => {
   alert(`you won ${counter} point`);
   console.log(LotoNumnersRundom);
 };
+// ===================================================
